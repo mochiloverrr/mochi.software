@@ -1,0 +1,39 @@
+{
+  "readmeUrl": "https://github.com/mochiloverrr/mochiloverrr/blob/main/readme.md",
+  "title": "m@chi.s@ftw4re",
+  "name": "Mochi",
+  "ascii": "mochi",
+  "social": {
+    "github": "mochiloverrr",
+    "linkedin": "linkedin"
+  },
+  "email": "contact@mochi.software",
+  "ps1_hostname": "mochi.software",
+  "ps1_username": "> ssh",
+  "repo": "https://github.com/mochiloverrr",
+  "resume_url": "",
+  "donate_urls": {
+    "paypal": "https://paypal.me/",
+    "patreon": "https://patreon.com/"
+  },
+  "colors": {
+    "light": {
+      "background": "#1a1b1f",
+      "foreground": "#f8f8ff",
+      "yellow": "#f8f8ff",
+      "green": "#f8f8ff",
+      "gray": "##f8f8ff",
+      "blue": "#f8f8ff",
+      "red": "#f8f8ff"
+    },
+    "dark": {
+      "background": "#1a1b1f",
+      "foreground": "#E5E9F0",
+      "yellow": "#39FF14",
+      "green": "#651C32",
+      "gray": "#f8f8ff",
+      "blue": "#651C32",
+      "red": "#f8f8ff"
+    }
+  }
+}
