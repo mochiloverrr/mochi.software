@@ -6,6 +6,11 @@ import config from '../../../config.json';
 import HeadshotImg from "../../assets/headshot.gif";
 import { isArgumentsObject } from 'util/types';
 
+//Seach Engines 
+export const google = async (args: string[]): Promise<string> => {
+  window.open(`https://google.com/search?q=${args.join(' ')}`);
+  return `Searching google for ${args.join(' ')}...`;
+};
 
 // Help
 export const help = async (args: string[]): Promise<string> => {
